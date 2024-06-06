@@ -5,7 +5,7 @@ There are two types Data Type in JavaScript:-
         2) float
         3) String
         4) undefined
-        5) null.  (typeof null is object is JavaScript)
+        5) null.  (typeof null is object in JavaScript)
 
     ii) Objects.
         Objects are key-values pairs.
